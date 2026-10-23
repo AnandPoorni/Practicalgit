@@ -1,1 +1,2 @@
-Welcome Everyone. This is GitHub class.cdss
+Welcome Everyone. 
+This is about GitHub.
